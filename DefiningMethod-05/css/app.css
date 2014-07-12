@@ -1,0 +1,19 @@
+/* app css stylesheet */
+
+body {
+    margin: 0 auto;
+}
+
+.main {
+    max-width: 700px;
+    margin: 40px auto
+}
+
+.root, .firstCtrl, .secondCtrl {
+    margin-bottom: 10px;
+}
+
+.reversedMessage{
+    background-color: deepskyblue;
+    box-shadow: 2px 3px 9px rgba(0, 0, 0, 0.3)
+}

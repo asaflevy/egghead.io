@@ -1,0 +1,14 @@
+/* app css stylesheet */
+
+body {
+    margin: 0 auto;
+}
+
+.main {
+    max-width: 600px;
+    margin: 40px auto
+}
+
+.root, .firstCtrl, .secondCtrl {
+    margin-bottom: 10px;
+}
